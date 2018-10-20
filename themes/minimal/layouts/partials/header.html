@@ -26,6 +26,9 @@
         </script>
         {{ end }}
     </head>
+    
+    {{ partial "twitter_cards" . }}
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/tsukubar/resources/master/logo/tsukubar-logo_square-800x800.png"/>
 
     {{ if .Site.Params.MathJax | default true }}
     <!-- adds MathJax support -->
