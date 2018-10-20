@@ -11,6 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     author = "Tsukuba.R Community"
     profilePic = "https://raw.githubusercontent.com/tsukubar/resources/master/logo/tsukubar-logo_square-800x800.png"
+    horizontalPic = "https://raw.githubusercontent.com/tsukubar/resources/master/logo/logo-animation.gif"
     description = "A Data Science and R Study Group for Tsukuba"
     githubUsername = "tsukubar"
     accent = "#54447B"
