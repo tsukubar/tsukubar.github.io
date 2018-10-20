@@ -28,7 +28,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 1
 
 [[menu.main]]
-    url = "/events/"
+    url = "https://www.meetup.com/ja-JP/TsukubaR/events/past/"
     name = "Events"
     weight = 2
 
@@ -38,7 +38,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
 
 [[menu.main]]
-    url = "/teams/"
+    url = "https://www.meetup.com/ja-JP/TsukubaR/members/"
     name = "Our Team"
     weight = 4
 
