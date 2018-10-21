@@ -12,7 +12,13 @@ tags: []
 
 [^1]: 前進となるTsukuba.Rの#9が2011年11月に開催されてから
 
-![つくばへようこそ！](../image/tsukubar_kick_off_meeting1.jpg)
+
+```{r, echo=FALSE}
+blogdown::shortcode("figure", 
+                    src= "../../image/tsukubar_kick_off_meeting1.jpg", 
+                    alt = "つくばへようこそ！")
+```
+
 
 立ち上げの回となった今回は、Tsukuba.Rのコミュニティとしてのあり方や今後の運営について議論する回でした。
 ゲストスピーカーとして[\@kilometer00](http://twitter.com/kilometer00) さんにトークしていただり、LTや飛び込みでの発表があったりと賑わいました。
@@ -59,7 +65,11 @@ blogdown::shortcode("tweet", "1048872731054227457")
 - meetup, Slack, [GitHub Organization](https://github.com/tsukubar)を通じてイベントの用意を行う
     - これらのサービスを利用しないメンバーには職場、メールを通して連絡
 
-![テーマ回に関する議論の様子](../image/tsukubar_kick_off_meeting2.jpg)
+```{r, echo=FALSE}
+blogdown::shortcode("figure", 
+                    src= "/image/tsukubar_kick_off_meeting2.jpg", 
+                    alt = "テーマ回に関する議論の様子")
+```
 
 ## Lighting Talk Session
 
