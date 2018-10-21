@@ -14,8 +14,8 @@ tags: []
 
 
 ```{r, echo=FALSE}
-blogdown::shortcode("figure", 
-                    src= "../../image/tsukubar_kick_off_meeting1.jpg", 
+blogdown::shortcode("figure",
+                    src= "../../image/tsukubar_kick_off_meeting1.jpg",
                     alt = "つくばへようこそ！")
 ```
 
@@ -66,14 +66,14 @@ blogdown::shortcode("tweet", "1048872731054227457")
     - これらのサービスを利用しないメンバーには職場、メールを通して連絡
 
 ```{r, echo=FALSE}
-blogdown::shortcode("figure", 
-                    src= "/image/tsukubar_kick_off_meeting2.jpg", 
+blogdown::shortcode("figure",
+                    src= "/image/tsukubar_kick_off_meeting2.jpg",
                     alt = "テーマ回に関する議論の様子")
 ```
 
 ## Lighting Talk Session
 
-話題提供として、[\niszet0](https://twitter.com/niszet0) さんのR Markdownでパワーポイントを作る、[\@u_ribo](https://twitter.com/u_ribo) による[textlint](http://textlint.github.io)の機能をRコード、R Markdownに導入する話がありました。また、予定にはなかったのですが、[\@hankagosa](https://twitter.com/hankagosa) さんが、統計モデリングの簡単な導入を行ってくださいました。（豪華な資料を超短時間で圧縮して説明するというもの！！）
+話題提供として、[\@niszet0](https://twitter.com/niszet0) さんのR Markdownでパワーポイントを作る、[\@u_ribo](https://twitter.com/u_ribo) による[textlint](http://textlint.github.io)の機能をRコード、R Markdownに導入する話がありました。また、予定にはなかったのですが、[\@hankagosa](https://twitter.com/hankagosa) さんが、統計モデリングの簡単な導入を行ってくださいました。（豪華な資料を超短時間で圧縮して説明するというもの！！）
 
 ### 超速ベイズ入門 \@hankagosa
 
