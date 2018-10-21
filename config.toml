@@ -14,6 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     horizontalPic = "https://raw.githubusercontent.com/tsukubar/resources/master/logo/logo-animation.gif"
     description = "A Data Science and R Study Group for Tsukuba"
     githubUsername = "tsukubar"
+    twitterUsername = "tsukubar"
     accent = "#54447B"
     showBorder = true
     backgroundColor = "white"

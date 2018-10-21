@@ -19,10 +19,13 @@ tags: []
 
 この記事では当日発表のあった資料と回の様子（主にTwitterからの実況）について報告します。話し合った内容についての詳細は[GitHub Issues](https://github.com/tsukubar/hq/issues)にまとめています。
 
-{{< tweet 1048788392106807302 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048788392106807302")
+```
 
-{{< tweet 1048788304051621888 >}}
-
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048788304051621888")
+```
 
 記念すべき？最初のつぶやき。
 
@@ -36,9 +39,13 @@ tags: []
 
 初めてRを触る、プログラミングをする人たちに対して、どのように考え方から伝えていく際の知見について学べました。
 
-{{< tweet 1049186446077120513 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1049186446077120513")
+```
 
-{{< tweet 1048872731054227457 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048872731054227457")
+```
 
 
 ## Meeting session
@@ -60,17 +67,28 @@ tags: []
 
 ### 超速ベイズ入門 \@hankagosa
 
-{{< tweet 1048814910442893317 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048814910442893317")
+```
 
-{{< tweet 1048874643291951104 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048874643291951104")
+```
+
 
 ### R Markdownでパワーポイント作成 \@niszet0
 
-{{< tweet 1048824384008282113 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048824384008282113")
+```
 
-{{< tweet 1048874159898423296 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048874159898423296")
+```
 
-{{< tweet 1048827784766709760 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048827784766709760")
+```
 
 ### textlintrパッケージ開発話 \@u_ribo
 
@@ -89,10 +107,18 @@ Tsukuba.Rでは、運営をサポートしてくださるメンバーを募集�
 
 最後に、すべてではありませんがTwitter上で見かけたイベントの感想をピックアップします。
 
-{{< tweet 1048858670778343425 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048858670778343425")
+```
 
-{{< tweet 1048881330627342339 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048881330627342339")
+```
 
-{{< tweet 1048871294266105856 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048871294266105856")
+```
 
-{{< tweet 1048880483164086274 >}}
+```{r echo=FALSE}
+blogdown::shortcode("tweet", "1048880483164086274")
+```
