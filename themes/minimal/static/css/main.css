@@ -11,9 +11,9 @@ body {
 
 main {
     margin: auto;
-    padding: 25px;
+    padding: 55px;
     flex: 1 0 auto;
-    max-width: 750px;
+    max-width: 1024px;
 }
 
 /*footer*/
@@ -74,6 +74,20 @@ a:hover {
     padding: 10px 0;
 }
 
+.item h3 {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.item h3 a {
+    color: #54447B;
+}
+
+.item h4 {
+    font-weight: bold;
+    font-size: 28px;
+}
+
 .item-tag {
     background-color: var(--accent);
 }
@@ -91,10 +105,16 @@ a:hover {
     border-top: var(--border-width) solid var(--accent);
 }
 
+.post__main-text {
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
 
 img {
+    margin: 5px;
     max-width: 100%;
 }
